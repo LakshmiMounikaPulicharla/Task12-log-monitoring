@@ -1,9 +1,3 @@
-# Archived Repository
-
-This repository has been consolidated into the master portfolio repository:
-
-https://github.com/LakshmiMounikaPulicharla/cybersecurity-internship-portfolio
-
 # Log Monitoring & Analysis (Task 12)
 
 This repository contains my log analysis report based on:
